@@ -1,0 +1,16 @@
+{
+  "best_model": "Linear Regression",
+  "results": {
+    "Linear Regression": {
+      "RMSE": 5.4452,
+      "MAE": 4.4089,
+      "R2": 0.7494
+    },
+    "Random Forest": {
+      "RMSE": 7.155,
+      "MAE": 5.8531,
+      "R2": 0.5673
+    }
+  },
+  "pass_fail_accuracy": 0.8667
+}
